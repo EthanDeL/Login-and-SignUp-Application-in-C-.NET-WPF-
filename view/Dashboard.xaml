@@ -1,0 +1,31 @@
+﻿<Window x:Class="Login.view.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Login.view"
+        mc:Ignorable="d"
+        Title="Dashboard" Height="800" Width="1200">
+
+    <Grid Background="#dedede">
+
+        <!-- // DASHBOARD CONTAINER // -->
+        <Border HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Width="350"
+        >
+
+            <StackPanel Margin="20">
+
+                <!-- // LOGIN TITLE // -->
+                <Label Content="Hello"
+                       HorizontalAlignment="Center"
+                       FontSize="30"
+                       Foreground="#201F1F"
+                       FontWeight="DemiBold" 
+                />
+            </StackPanel>
+
+        </Border>
+    </Grid>
+</Window>
