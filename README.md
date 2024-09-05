@@ -8,7 +8,7 @@
 # Technologies Used
   * C# (.NET WPF): Provides the structure for the application and its logic.
   * XAML: For building the user interface (UI).
-  *SQL Server: Used to store and manage user data.
+  * SQL Server: Used to store and manage user data.
 
 🤍 Join me on Instagram for more content [EthanDeL](https://www.instagram.com/ethan_del_code/)
 
